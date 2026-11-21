@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility repository or VirtualMyocyte, please cite the accompanying Communications Biology manuscript and software snapshot."
+title: "Human cardiac transcriptomic remodeling in atrial fibrillation and after myocardial infarction — V6 Reproducibility & VirtualMyocyte Snapshot"
+version: "6.0.0-commsbio"
+date-released: "2026-11-21"
+license: "MIT"
+repository-code: "https://github.com/ljw199606-beep/arrhythmia-atlas-v6-commsbio"
+keywords:
+  - atrial fibrillation
+  - myocardial infarction
+  - single-nucleus RNA-seq
+  - spatial transcriptomics
+  - cardiac electrophysiology
+  - VirtualMyocyte
+  - reproducibility
+references:
+  - type: software
+    title: "VirtualMyocyte (Historical v1.0.0 Zenodo Concept Archive)"
+    doi: "10.5281/zenodo.20695146"
+  - type: dataset
+    title: "Arrhythmia Atlas Processed Outputs (Historical v1 Zenodo Concept Archive)"
+    doi: "10.5281/zenodo.20695144"
